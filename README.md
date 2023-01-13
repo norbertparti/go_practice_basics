@@ -1,1 +1,1 @@
-# go_practice_basics
+# Practice Golang basic elemetns
