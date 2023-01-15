@@ -11,3 +11,6 @@ go build *.go
 ```
 go run *.go
 ```
+
+# Pokemon fetcher
+https://dev.to/digi0ps/making-concurrent-api-requests-in-go-4jig
